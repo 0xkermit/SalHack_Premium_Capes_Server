@@ -17,3 +17,4 @@ https://i.imgur.com/OHRMd1N.png catcape2
 https://i.imgur.com/PWAWHxS.png jakecape
 https://i.imgur.com/lumYs45.png zispanos_normal
 https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zispanos_clown.png zispanos
+https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zenithcape.png zenith
