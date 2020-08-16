@@ -15,8 +15,8 @@ https://i.imgur.com/24x9tDc.png belle2_blue_cape
 https://i.imgur.com/0XkI6xj.png Turtle_1
 https://i.imgur.com/OHRMd1N.png catcape2
 https://i.imgur.com/PWAWHxS.png jakecape
-https://i.imgur.com/lumYs45.png zispanos_normal
-https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zispanos_clown.png zispanos
+https://i.imgur.com/lumYs45.png zispanos
+https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zispanos_clown.png zispanos_other
 https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zenithcape.png zenith_old
 https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/cydoniacape.png cydonia
 https://raw.githubusercontent.com/Gopro336/SalHack_Premium_Capes_Server/master/zenithcapenew.png zenith
